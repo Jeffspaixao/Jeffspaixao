@@ -1,9 +1,8 @@
 ### Olá, meu nome é Jefferson Paixão
 
-- 🔭 Atualmente estou buscando uma vaga
+- 🔭 Atualmente estou buscando uma vaga em Front-End,Back-End ou Full-Stack (júnior)
 - 🌱 Estudando MySQL/nodeJS express
-- 📫 How to reach me: jeffspaixao@gmail.com
-- 😄 Pronouns: ele/dele
+- 📫 E-mail para contato: jeffspaixao@gmail.com
 
 <div align="center">
   <a href="https://github.com/Jeffspaixao">
