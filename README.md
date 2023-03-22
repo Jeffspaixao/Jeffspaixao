@@ -1,7 +1,7 @@
 ### Olá, meu nome é Jefferson Paixão
 
 - 🔭 Atualmente estou buscando colocação no mercado em Front-End,Back-End ou Full-Stack (júnior)
-- 🌱 Estudando MySQL/nodeJS express
+- 🌱 Atualmente cursando Analise e Desenvolvimento de Sistemas
 - 📫 E-mail para contato: jeffspaixao@gmail.com
 
 <div align="center">
