@@ -1,6 +1,6 @@
 ### Olá, meu nome é Jefferson Paixão
 
-- 🔭 Atualmente estou buscando colocação no mercado em Front-End,Back-End ou Full-Stack (júnior)
+- 🔭 Atualmente estou buscando colocação no mercado em Front-End,Back-End
 - 🌱 Atualmente cursando Analise e Desenvolvimento de Sistemas
 - 📫 E-mail para contato: jeffspaixao@gmail.com
 
